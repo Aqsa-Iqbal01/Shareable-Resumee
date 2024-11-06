@@ -8,7 +8,7 @@ body {
 
 form {
     margin: auto;
-    background-color: #fff1a0;
+    background-color: white;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     padding: 20px;
@@ -31,7 +31,7 @@ fieldset {
 legend {
     font-weight: bold;
     text-align: left;
-    color: rgb(34, 29, 29);
+    color:#8c2f39;
 }
 
 label {
